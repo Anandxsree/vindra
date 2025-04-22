@@ -1,52 +1,46 @@
-Marketing Dashboard Project
+//Marketing Dashboard Project
 Overview
-This repository contains a marketing dashboard designed to visualize key performance indicators (KPIs) such as:
+This repo contains a marketing dashboard visualizing key performance indicators (KPIs):
 
 Customer Lifetime Value (LTV): £150.00
 Expected Cost per Acquisition (CAC): £350.00
 Estimated Cost per 1,000 Impressions (CPM): £10.00
-Customer Segments: Breakdown into Premium, Standard, and Trial categories.
-Ad Budget Breakdown: Visualization of CAC and CPM.
-Marketing Funnel: Targets customer acquisition with estimated impressions (1,000,000).
+Customer Segments: Premium, Standard, Trial breakdown
+Ad Budget Breakdown: CAC and CPM visualization
+Marketing Funnel: Targets 1,000,000 impressions for customer acquisition
 
-The dashboard provides a clear and concise view of marketing metrics.
-Features
+//Features
 
-Interactive display of marketing KPIs.
-Pie chart for customer segment distribution.
-Bar chart for ad budget breakdown.
-Marketing funnel with target customer acquisition metrics.
+Interactive KPI display
+Pie chart for customer segments
+Bar chart for ad budget
+Marketing funnel metrics
 
 Getting Started
 Prerequisites
 
-Git installed on your machine.
+Git installed
 
 Installation
 
-Clone the repository:git clone https://github.com/yourusername/marketing-dashboard.git
+Clone the repo:git clone https://github.com/yourusername/marketing-dashboard.git
 
 
-Navigate to the project directory:cd marketing-dashboard
+Navigate to the directory:cd marketing-dashboard
 
 
-Open the project files in your preferred editor to view the dashboard layout.
+Open files in your preferred editor.
 
 Usage
-The dashboard is designed as a static visualization. To enhance it, you can:
+Static visualization. Enhance by:
 
-Integrate with a backend API for real-time data.
-Use JavaScript libraries (e.g., Chart.js or D3.js) to make the charts interactive.
-Customize the design and metrics as per your needs.
+Adding a backend API for real-time data
+Using Chart.js or D3.js for interactive charts
+Customizing design and metrics
 
 Contributing
-Feel free to fork this repository and submit pull requests. Please ensure to:
-
-Follow the existing code style.
-Add tests if applicable.
-Update the documentation.
-
+Fork the repo and submit PRs. Follow code style, add tests, and update docs.
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+MIT License - see LICENSE.md for details.
 Contact
-For any questions or suggestions, please open an issue or contact the maintainer.
+Open an issue or contact the maintainer.
